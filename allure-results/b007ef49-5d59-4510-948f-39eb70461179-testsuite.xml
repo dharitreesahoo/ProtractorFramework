@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1575914998565' stop='1575915019197'>
+    <name>angularjs homepage todo list</name>
+    <title>angularjs homepage todo list</title>
+    <test-cases>
+        <test-case start='1575914998565' status='passed' stop='1575915012015'>
+            <name>should list todos</name>
+            <title>should list todos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1575915012015' status='passed' stop='1575915019196'>
+            <name>should add a todo</name>
+            <title>should add a todo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
