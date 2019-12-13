@@ -1,0 +1,12 @@
+{
+    "AddCustomer":
+    {
+        "firstName": "Somesh",
+        "lastName": "Marati",
+        "pCode": "909090",
+        "customerName":"",
+        "customerID":"",
+        "currency":"Dollar"
+    }
+    
+}

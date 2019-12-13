@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1575995491852' stop='1575995511425'>
+    <name>angularjs homepage</name>
+    <title>angularjs homepage</title>
+    <test-cases>
+        <test-case start='1575995491853' status='passed' stop='1575995499735'>
+            <name>should greet the named user</name>
+            <title>should greet the named user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
