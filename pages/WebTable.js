@@ -18,4 +18,15 @@ class addCustomer {
 			rows[0].$('button').click();
 		});
 	}
+
+	deleteFriend = function(nameString) {
+        return this.rows.filter(function(row) {
+            // find the row with the name we want...
+            return row.$$('td').get(1).getText().then(function(name) {
+                return name === nameString;
+            });
+        }).then(function(filteredRows) {
+            filteredRows[0].$('i.icon-trash').click();
+        });
+    };
 }
