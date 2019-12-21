@@ -5,7 +5,7 @@ exports.config = {
     'browserName': 'chrome'
   },
   framework: 'jasmine',
-  specs: ['../tests/example_spec.js'],
+  specs: ['../tests/webTablesExample1.js'],
   jasmineNodeOpts: {
     defaultTimeoutInterval: 30000
   },

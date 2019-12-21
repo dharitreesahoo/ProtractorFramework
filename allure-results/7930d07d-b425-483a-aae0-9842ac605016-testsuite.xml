@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1576950436981' stop='1576950439118'>
+    <name>EndToEndFlow</name>
+    <title>EndToEndFlow</title>
+    <test-cases>
+        <test-case start='1576950438921' status='passed' stop='1576950439117'>
+            <name>delete row in webtable</name>
+            <title>delete row in webtable</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
